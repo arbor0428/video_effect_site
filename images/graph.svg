@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1442" height="441.233" viewBox="0 0 1442 441.233">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="graph" transform="translate(-136.77 -2218.722)">
+    <g id="graph_bg" transform="translate(-36)">
+      <path id="graph_bg3" d="M9314.981,2167.583l65.286-28.775h78.8L9513,2121.9h84l129.755-53.156,61.081,7.292,81.851-9.486,65.962-26.62,209.436-61.1h0l99.354-54.091L10423,1860.047l72.011-56.32,164.742-27.188v391.276Z" transform="translate(-9074.98 442.184)" opacity="0.2" fill="url(#linear-gradient)"/>
+      <path id="graph_bg2" d="M9320.265,2176l46.844-65.12h62.942l41.661-16.4h68.52l103.643-51.563,61.072,29.479,105.782-57.429h144.295l102.351-111.741,209.842-54.924,126.323,15.172,271.21-53.889v366.363Z" transform="translate(-9079.979 434.066)" opacity="0.1" fill="url(#linear-gradient)"/>
+      <path id="graph_bg1" d="M9252.751,2232.177l114.31-69.579h62.6l41.639-17.543h67.953l103.085-55.141,60.746,31.525L9869.9,2009.145h0l81.925,50.879h0l101.8-119.5,141.854-67.1,218.328,154.721,250.945-162.927-7.009,366.956Z" transform="translate(-9079.981 376.322)" opacity="0.04" fill="url(#linear-gradient)"/>
+    </g>
+    <line id="line-1" x2="1340" transform="translate(209.27 2610.5)" fill="none" stroke="#fff" stroke-width="1" opacity="0.4"/>
+    <g id="year">
+      <text id="_2019" data-name="2019" transform="translate(208.77 2654.955)" fill="#fff" font-size="20" font-family="Pretendard-Bold, Pretendard" font-weight="700"><tspan x="-23.818" y="0">2019</tspan></text>
+      <circle id="year1" cx="5" cy="5" r="5" transform="translate(203.77 2605)" fill="#fff"/>
+      <text id="_2020" data-name="2020" transform="translate(509.77 2654.955)" fill="#fff" font-size="20" font-family="Pretendard-Bold, Pretendard" font-weight="700"><tspan x="-25.41" y="0">2020</tspan></text>
+      <circle id="year2" cx="5" cy="5" r="5" transform="translate(504.77 2605)" fill="#fff"/>
+      <text id="_2021" data-name="2021" transform="translate(808.77 2654.955)" fill="#fff" font-size="20" font-family="Pretendard-Bold, Pretendard" font-weight="700"><tspan x="-23.496" y="0">2021</tspan></text>
+      <circle id="year3" cx="5" cy="5" r="5" transform="translate(803.77 2605)" fill="#fff"/>
+      <text id="_2022" data-name="2022" transform="translate(1108.77 2654.955)" fill="#fff" font-size="20" font-family="Pretendard-Bold, Pretendard" font-weight="700"><tspan x="-24.912" y="0">2022</tspan></text>
+      <circle id="year4" cx="5" cy="5" r="5" transform="translate(1103.77 2605)" fill="#fff"/>
+      <circle id="year5" cx="5" cy="5" r="5" transform="translate(1544 2605)" fill="#fff"/>
+    </g>
+    <line id="line-h1" x1="0.27" y2="85.5" transform="translate(209 2524.5)" fill="none" stroke="#fff" stroke-width="1" stroke-dasharray="4 2" opacity="0.2"/>
+    <line id="line-h2" y2="120.5" transform="translate(510 2489.5)" fill="none" stroke="#fff" stroke-width="1" stroke-dasharray="4 2" opacity="0.2"/>
+    <line id="line-h3" y2="257.5" transform="translate(809 2352.5)" fill="none" stroke="#fff" stroke-width="1" stroke-dasharray="4 2" opacity="0.2"/>
+    <line id="line-2" x2="1340" transform="translate(209.27 2524.5)" fill="none" stroke="#fff" stroke-width="1" stroke-dasharray="4 2" opacity="0.3"/>
+    <line id="line-3" x2="888.822" transform="translate(660.27 2438.5)" fill="none" stroke="#fff" stroke-width="1" stroke-dasharray="4 2" opacity="0.3"/>
+    <line id="line-4" x2="739.822" transform="translate(809.27 2352.5)" fill="none" stroke="#fff" stroke-width="1" stroke-dasharray="4 2" opacity="0.3"/>
+    <line id="line-5" x2="433.822" transform="translate(1115.27 2266.5)" fill="none" stroke="#fff" stroke-width="1" stroke-dasharray="4 2" opacity="0.3"/>
+    <text id="_10" data-name="10" transform="translate(1567.77 2273.609)" fill="#fff" font-size="20" font-family="Pretendard-Regular, Pretendard"><tspan x="-10.342" y="0">10</tspan></text>
+    <text id="_8" data-name="8" transform="translate(1567.77 2359.5)" fill="#fff" font-size="20" font-family="Pretendard-Regular, Pretendard"><tspan x="-6.064" y="0">8</tspan></text>
+    <text id="_6" data-name="6" transform="translate(1567.77 2445.5)" fill="#fff" font-size="20" font-family="Pretendard-Regular, Pretendard"><tspan x="-6.133" y="0">6</tspan></text>
+    <text id="_4" data-name="4" transform="translate(1567.77 2531.5)" fill="#fff" font-size="20" font-family="Pretendard-Regular, Pretendard"><tspan x="-6.24" y="0">4</tspan></text>
+  </g>
+</svg>
