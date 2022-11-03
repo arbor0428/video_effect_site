@@ -33,7 +33,7 @@
 			<script src="https://player.vimeo.com/api/player.js"></script>
 			<div class="videoWrap" style="position:relative; width: 100%; height: 100%; overflow: hidden;">
 				<div class="main-clean-video-bg pc">
-					<iframe src="https://player.vimeo.com/video/726922955?autopause=0&amp;transparent=1&amp;autoplay=1&amp;loop=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;muted=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="0621 크로브 로딩 페이지 1.mp4" data-ready="true"></iframe>
+					<iframe src="https://player.vimeo.com/video/726922955?autopause=0&amp;background=1&amp;autoplay=1&amp;loop=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;muted=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="0621 크로브 로딩 페이지 1.mp4" data-ready="true"></iframe>
 				</div>
 				<div style='width:100%;height:100%;position:absolute;top:0;left:0;'></div>
 			</div>
@@ -45,7 +45,7 @@
 			</div>
 			<div class="m_videoWrap" style="position:relative; width: 100%; height: 100%; overflow: hidden;">
 				<div class="main-clean-video-bg mobile">
-					<iframe src="https://player.vimeo.com/video/745340793?autopause=0&amp;transparent=1&amp;autoplay=1&amp;loop=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;muted=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen  title="0822 크로브 모바일.mp4"></iframe>
+					<iframe src="https://player.vimeo.com/video/745340793?h=e96fc6213d&amp;autopause=0&amp;background=1&amp;autoplay=1&amp;loop=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;muted=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen  title="0822 크로브 모바일.mp4"></iframe>
 				</div>
 				<div style='width:100%;height:100%;position:absolute;top:0;left:0;'></div>
 			</div>
